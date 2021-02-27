@@ -1,0 +1,141 @@
+body {
+  padding-top: 50px;
+}
+h1 {
+  padding: 40% 0%;
+  font-size: 6rem;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  padding: 2%;
+  font-size: 3rem;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h3{
+  padding: 2%;
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+ul {
+  padding: 0 7%;
+}
+
+hr {
+  border: dotted #EAf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.soma-img {
+  margin-left: 20%;
+  width: 80%;
+  border-radius: 100%;
+  padding: 8%;
+}
+
+.navbar {
+  /* padding: 0 0 4.5rem; */
+  background-color: white;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #71c9ce;
+}
+
+.list-title{
+  font-family: 'Lato', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  padding: 5% 2%;
+}
+
+.list {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 2;
+}
+
+.resume-img {
+  width: 90%;
+  padding: 3% 3%;
+}
+
+.set-apart {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 2;
+}
+
+.career {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 2;
+  padding-right: 30px;
+  text-align: left;
+}
+
+.about-me-div {
+  font-family: 'Lato', sans-serif;
+  Take the next step towards your dream job.
+  font-weight: 300;
+  line-height: 2;
+  padding-left: 2%;
+}
+
+.navbar-toggler{
+  color: #71c9ce;
+}
+
+.email {
+  font-weight: 300;
+  padding-bottom: 50px;
+}
+
+.working-img {
+  display: block;
+  margin: auto;
+  width: 80%;
+}
+
+
+#title {
+  background-color: #e3fdfd;
+  text-align: center;
+}
+
+#what-i-do {
+  padding: 70px 0px;
+  background-color: #cbf1f5;
+}
+
+#what-sets-me-apart {
+  padding: 50px 0;
+  text-align: center;
+  background-color: #e3fdfd;
+}
+
+#about-me {
+  padding: 50px 0;
+  background-color: #cbf1f5;
+}
+
+#contact-me {
+  background-color: #71c9ce;
+  text-align: center;
+}
